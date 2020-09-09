@@ -16,8 +16,9 @@ The total number of votes cast
 
 
 Output will appear as shown below:
+<p>
 <img src="results.jpg">
-
+</p>
 
 
 
