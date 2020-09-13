@@ -15,7 +15,7 @@ The total number of votes cast
 * The winner of the election based on popular vote.
 
 
-Output will appear as shown below:
+Results will be written to a text file and re-read to display as shown
 <p>
 <img src="results.jpg">
 </p>
